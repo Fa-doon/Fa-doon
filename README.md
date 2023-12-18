@@ -8,7 +8,7 @@ I'm currently a student of AltSchool Africa who is passionate about sharing know
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
+- 🌱 I’m currently learning JavaScript & Nodejs.
 - 😊 I’d be delighted if I can get some assistance with open source projects and internships.
 - 💼 Job interests: Backend Engineer (Intern or Junior level).
 - 📫 You can contact me by sending a mail to fadoon.tar@gmail.com.
