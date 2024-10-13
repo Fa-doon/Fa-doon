@@ -6,8 +6,8 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 😊 I’d be delighted if I could get some assistance with open-source projects and internships.
-- 💼 Job interests: Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by sending an email to fadoon.tar@gmail.com.
+- 😊 I'm continously expanding my knowledge of JavaScript, system design, API services and databases.
+- 💼 Interests: Backend Engineering roles and open source projects.
+- 📫 You can contact me by sending an email to fadoon.tar@gmail.com
 
 ---
