@@ -5,8 +5,8 @@
 
 **Here's a quick summary about me**:
 
-- 😊 I'm continously expanding my knowledge of JavaScript, system design, API services and databases.
+- 😊 I'm continuously expanding my knowledge of JavaScript, system design, API services, and databases.
 - 💼 Interests: Backend Engineering roles and open source projects.
-- 📫 You can contact me by sending an email to fadoon.tar@gmail.com
+- 📫 You can contact me - fadoon.tar@gmail.com
 
 ---
