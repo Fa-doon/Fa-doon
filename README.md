@@ -1,6 +1,6 @@
 # Hello there! 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadoon-tarnongu-010884a5/)[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Fashmelon)](https://twitter.com/Fashmelon)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadoon-tarnongu-010884a5/)
 
 
 **Here's a quick summary about me**:
