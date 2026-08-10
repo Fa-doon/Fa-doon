@@ -1,4 +1,4 @@
-# Hi, I'm Fadoon 👋🏾
+# Hi there, 👋🏾
 
 **Software Engineer / Backend Developer** focused on building robust REST APIs, scalable backend architecture, and efficient database designs with Node.js, Express, and TypeScript.
 
