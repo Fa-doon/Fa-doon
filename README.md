@@ -9,7 +9,7 @@
 * **Languages:** JavaScript (ES6+), TypeScript
 * **Backend Frameworks:** Node.js, Express.js
 * **Databases & ORMs:** MongoDB, Mongoose, SQL
-* **Core Competencies:** RESTful API Design, JWT Authentication, System Architecture, Open Source Contribution
+* **Core Competencies:** RESTful API Design, JWT Authentication, System Architecture
 * **Tools:** Git, GitHub, Postman
 
 ---
