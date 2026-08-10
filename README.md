@@ -26,4 +26,3 @@
 
 * **LinkedIn:** https://www.linkedin.com/in/fadoon-tarnongu/
 * **Email:** fadoon.tar@gmail.com
-* **Location:** Nigeria
