@@ -24,6 +24,6 @@
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/fadoon-tarnongu/]
-* **Email:** [fadoon.tar@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/fadoon-tarnongu/
+* **Email:** fadoon.tar@gmail.com
 * **Location:** Nigeria
