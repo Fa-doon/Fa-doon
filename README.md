@@ -12,14 +12,6 @@
 
 ---
 
-### ⚡ Featured Work & Highlights
-
-* **[URL Shortener](https://github.com/Fa-doon/URL-shortener):** A customizable URL shortening service built with TypeScript, focusing on fast routing and custom aliases.
-* **[Inventory System](https://github.com/Fa-doon/inventory_system):** A full backend service handling product catalog management, stock tracking, and data persistence.
-* **[Blog API](https://github.com/Fa-doon/Blog-api):** RESTful service featuring authentication, user permissions, and structured content management.
-
----
-
 ### 📫 Connect With Me
 
 * **LinkedIn:** https://www.linkedin.com/in/fadoon-tarnongu/
