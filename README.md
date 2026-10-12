@@ -6,7 +6,7 @@
 
 ### 💻 Tech Stack & Tools
 
-* **Languages:** JavaScript (ES6+), TypeScript, Python
+* **Languages:** JavaScript (ES6+), TypeScript
 * **Backend Frameworks:** Node.js, Express.js
 * **Databases & ORMs:** MongoDB, Mongoose, SQL
 
